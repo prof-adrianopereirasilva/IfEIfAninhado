@@ -1,0 +1,14 @@
+c:\Users\Admin\Desktop\projetos\CSharp\aulas\IfEIfAninhado\IfEIfAninhado\bin\Debug\net8.0\IfEIfAninhado.exe
+c:\Users\Admin\Desktop\projetos\CSharp\aulas\IfEIfAninhado\IfEIfAninhado\bin\Debug\net8.0\IfEIfAninhado.deps.json
+c:\Users\Admin\Desktop\projetos\CSharp\aulas\IfEIfAninhado\IfEIfAninhado\bin\Debug\net8.0\IfEIfAninhado.runtimeconfig.json
+c:\Users\Admin\Desktop\projetos\CSharp\aulas\IfEIfAninhado\IfEIfAninhado\bin\Debug\net8.0\IfEIfAninhado.dll
+c:\Users\Admin\Desktop\projetos\CSharp\aulas\IfEIfAninhado\IfEIfAninhado\bin\Debug\net8.0\IfEIfAninhado.pdb
+c:\Users\Admin\Desktop\projetos\CSharp\aulas\IfEIfAninhado\IfEIfAninhado\obj\Debug\net8.0\IfEIfAninhado.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Admin\Desktop\projetos\CSharp\aulas\IfEIfAninhado\IfEIfAninhado\obj\Debug\net8.0\IfEIfAninhado.AssemblyInfoInputs.cache
+c:\Users\Admin\Desktop\projetos\CSharp\aulas\IfEIfAninhado\IfEIfAninhado\obj\Debug\net8.0\IfEIfAninhado.AssemblyInfo.cs
+c:\Users\Admin\Desktop\projetos\CSharp\aulas\IfEIfAninhado\IfEIfAninhado\obj\Debug\net8.0\IfEIfAninhado.csproj.CoreCompileInputs.cache
+c:\Users\Admin\Desktop\projetos\CSharp\aulas\IfEIfAninhado\IfEIfAninhado\obj\Debug\net8.0\IfEIfAninhado.dll
+c:\Users\Admin\Desktop\projetos\CSharp\aulas\IfEIfAninhado\IfEIfAninhado\obj\Debug\net8.0\refint\IfEIfAninhado.dll
+c:\Users\Admin\Desktop\projetos\CSharp\aulas\IfEIfAninhado\IfEIfAninhado\obj\Debug\net8.0\IfEIfAninhado.pdb
+c:\Users\Admin\Desktop\projetos\CSharp\aulas\IfEIfAninhado\IfEIfAninhado\obj\Debug\net8.0\IfEIfAninhado.genruntimeconfig.cache
+c:\Users\Admin\Desktop\projetos\CSharp\aulas\IfEIfAninhado\IfEIfAninhado\obj\Debug\net8.0\ref\IfEIfAninhado.dll
